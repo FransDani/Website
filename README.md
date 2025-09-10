@@ -1,3 +1,6 @@
+Perfect 👌 here’s your updated **README.md** with the screenshot section added for your *Daily Journal* project:
+
+````markdown
 # 🌐 Website Projects
 
 This repository contains a collection of website design and development projects I created during my time in college.  
@@ -21,21 +24,34 @@ I’ll continue updating this as I add more projects.
 1. Clone the repo:
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
-   
+````
+
 2. Navigate into a project folder:
 
-cd project-folder
+   ```bash
+   cd project-folder
+   ```
+3. Open `index.html` in your browser.
 
-🛠️ Built With
-•HTML5
+---
 
-•CSS3
+## 🛠️ Built With
 
-📜 License
-This repository is open-sourced under the MIT License.
+* **HTML5**
+* **CSS3**
+* **JavaScript** *(where applicable)*
+
+---
+
+## 📜 License
+
+This repository is open-sourced under the [MIT License](LICENSE).
 You’re free to use, modify, and share!
 
-👤 Author
-Franchesca Daniel Navarro
+---
 
-GitHub: @FransDani & @YoshikiTsujinaka
+## 👤 Author
+
+**Your Name**
+
+* GitHub: [@FransDani](https://github.com/FransDani)
