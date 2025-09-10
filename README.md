@@ -20,9 +20,8 @@ I’ll continue updating this as I add more projects.
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/FransDani/Website.git
    
-````
 
 2. Navigate into a project folder:
 
@@ -50,6 +49,6 @@ You’re free to use, modify, and share!
 
 ## 👤 Author
 
-**Your Name**
+Franchesca Daniel Navarro
 
 * GitHub: [@FransDani](https://github.com/FransDani)
