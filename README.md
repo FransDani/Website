@@ -1,6 +1,3 @@
-Perfect 👌 here’s your updated **README.md** with the screenshot section added for your *Daily Journal* project:
-
-````markdown
 # 🌐 Website Projects
 
 This repository contains a collection of website design and development projects I created during my time in college.  
@@ -24,6 +21,7 @@ I’ll continue updating this as I add more projects.
 1. Clone the repo:
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
+   
 ````
 
 2. Navigate into a project folder:
