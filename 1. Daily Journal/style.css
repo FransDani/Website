@@ -1,0 +1,133 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family:ro;
+  color: var(--text-color);
+  background-color: rgba(218, 212, 212, 0.6);
+  line-height: 1.6;
+  padding: 20px;
+  min-height: 100vh;   /* make body full screen height */
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  color: rgba(36,36,167,0.943);
+  text-align: center;
+  padding: 60px 20px;
+  clip-path: ellipse(80% 60% at 50% 40%);
+  font-size: large;
+  font-family:monospace;
+  text-shadow: 2px 5px 10px rgba(94, 43, 166, 0.646);
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: rgba(36, 36, 167, 0.943);
+  font-weight: bold;
+  font-size: 18px;
+  text-shadow: 2px 5px 10px rgba(94, 43, 166, 0.646);
+  display: inline-block;
+  transition: transform 0.2s ease, text-shadow 0.2 ease;
+}
+
+nav a:hover {
+  transform: translateY(-10px); /* jump when hovered*/
+  color: #b34cd8;
+  text-shadow: 2px 5px 10px rgba(0,0,0,0.9);
+}
+
+section, article {
+  font-family: monospace;
+  margin: 40px auto;
+  padding: 60px 40px;
+  background: #9a9bcd;
+  border-radius: 40px;
+  text-align: center;
+  max-width: 900px;
+  box-shadow: 0 10px 30px rgb(26, 21, 103)
+  
+}
+
+footer {
+color: rgba(0, 0, 0, 0.943);
+  text-align: center;
+  align-self: center;
+  font-size: large;
+  font-family:monospace;
+  text-shadow: 2px 5px 10px rgba(94, 43, 166, 0.646);
+}
+
+img {
+  display: block;
+  margin: 5px auto;
+  border-radius: 10% 60%;
+  max-width: 50%;
+  box-shadow: 0 4px 11px;
+}
+
+p {
+  font-style: italic;
+  font-family: monospace;
+  font-size: 15px;
+  align-content: center;
+  text-align: justify;
+}
+
+#about {
+  width: 500px;
+  height: auto;
+  padding: 50px;
+  margin: 20px auto;
+  border: 0px solid rgba(94, 43, 166, 0.646);
+  border-radius: 15px;
+  box-shadow: 0 4px 11px;
+  text-align: center;
+}
+
+#art1{
+    width: 500px;
+  height: auto;
+  padding: 20px;
+  margin: 20px auto;
+  border: 2px solid rgba(94, 43, 166, 0.646);
+  border-radius: 15px;
+  box-shadow: 0 4px 11px;
+}
+
+#art2 {
+    width:500px;
+  height: auto;
+  padding: 20px;
+  margin: 20px auto;
+  border: 2px solid rgba(94, 43, 166, 0.646);
+  border-radius: 15px;
+  box-shadow: 0 4px 11px;
+}
+
+#email{
+    width: 500px;
+  height: auto;
+  padding: 50px;
+  margin: 20px auto;
+  border: 0px solid rgba(94, 43, 166, 0.646);
+  border-radius: 15px;
+  box-shadow: 0 4px 11px;
+  text-align: center;
+}
+
+#social{
+      width: 500px;
+  height: auto;
+  padding: 50px 2;
+  margin: 20px auto;
+  border: 0px solid rgba(94, 43, 166, 0.646);
+  border-radius: 15px;
+  box-shadow: 0 4px 11px;
+  text-align: center;
+  align-items: center;
+}
