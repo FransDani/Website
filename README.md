@@ -13,7 +13,7 @@ I’ll continue updating this as I add more projects.
    - Focused on functionality over styling  
 
    ### 📸 Screenshot
-   ![Daily Journal Screenshot](./Daily%20Journal/99bd7053-6fc9-421b-9fcd-0c0f74f3a4aa.jpg)
+![Daily Journal Screenshot](Website/1.%20Daily%20Journal/99bd7053-6fc9-421b-9fcd-0c0f74f3a4aa.jpg)
 
 ---
 
@@ -39,11 +39,3 @@ You’re free to use, modify, and share!
 Franchesca Daniel Navarro
 
 GitHub: @FransDani & @YoshikiTsujinaka
-
-
-
-
-
-
-
-Ask ChatGPT
