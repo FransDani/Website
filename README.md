@@ -2,7 +2,7 @@
 
 This repository contains a collection of website design and development projects I created during my time in college.  
 Feel free to explore the source code, use it for learning, or build upon it for your own projects!  
-I’ll continue updating this as I add more projects.
+I’ll continue updating this as I add more projects. Some of the source code was just customized and provided by our prof.
 
 ---
 
